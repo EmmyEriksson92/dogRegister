@@ -6,3 +6,7 @@ This project was part of an assignment in the course: Programmering 1. The cours
 **About this program:**
 
 This program creates a register for dogs where one also can make bids on dogs.
+
+
+
+*By Emmy Eriksson*
