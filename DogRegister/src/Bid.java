@@ -1,4 +1,4 @@
-//Emmy Eriksson, emer4231
+//Emmy Eriksson.
 public class Bid {
 	private User user;
 	private int bid;

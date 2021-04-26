@@ -1,4 +1,4 @@
-//Emmy Eriksson, emer4231
+//Emmy Eriksson.
 
 public class BubbleSort {
 	public void bubbleSort(Bid[] bids) {

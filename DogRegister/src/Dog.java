@@ -1,4 +1,4 @@
-//Emmy Eriksson, emer4231
+//Emmy Eriksson.
 public class Dog implements Comparable<Dog> {
 
 	private String name;

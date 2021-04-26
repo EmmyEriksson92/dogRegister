@@ -1,5 +1,5 @@
 
-///Emmy Eriksson, emer4231
+///Emmy Eriksson.
 import java.util.*;
 
 public class Register {
