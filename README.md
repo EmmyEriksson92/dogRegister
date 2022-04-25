@@ -1,6 +1,6 @@
 # dogRegister
 
-This project was part of an assignment in the course: Programmering 1. The course was part of the program Data-och systemvetenskapligt kandidatprogram on Stockholm University.
+This project was part of an assignment in the course: Programmering 1. The course was part of the program Data-och systemvetenskapligt kandidatprogram at Stockholm University.
 
 
 **About this program:**
